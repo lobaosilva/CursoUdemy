@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    
+
     double x, y, media;
 
     cout << "Digite o primeiro numero: ";
